@@ -1,0 +1,11 @@
+c:\users\basavaraj\documents\visual studio 2010\Projects\SeleniumFirst\SeleniumFirst\bin\Debug\SeleniumFirst.exe
+c:\users\basavaraj\documents\visual studio 2010\Projects\SeleniumFirst\SeleniumFirst\bin\Debug\SeleniumFirst.pdb
+c:\users\basavaraj\documents\visual studio 2010\Projects\SeleniumFirst\SeleniumFirst\bin\Debug\WebDriver.dll
+c:\users\basavaraj\documents\visual studio 2010\Projects\SeleniumFirst\SeleniumFirst\bin\Debug\WebDriver.Support.dll
+c:\users\basavaraj\documents\visual studio 2010\Projects\SeleniumFirst\SeleniumFirst\bin\Debug\WebDriver.xml
+c:\users\basavaraj\documents\visual studio 2010\Projects\SeleniumFirst\SeleniumFirst\bin\Debug\WebDriver.Support.xml
+c:\users\basavaraj\documents\visual studio 2010\Projects\SeleniumFirst\SeleniumFirst\obj\x86\Debug\SeleniumFirst.csprojResolveAssemblyReference.cache
+c:\users\basavaraj\documents\visual studio 2010\Projects\SeleniumFirst\SeleniumFirst\obj\x86\Debug\SeleniumFirst.exe
+c:\users\basavaraj\documents\visual studio 2010\Projects\SeleniumFirst\SeleniumFirst\obj\x86\Debug\SeleniumFirst.pdb
+C:\Users\Basavaraj\Documents\Visual Studio 2010\Projects\BingSearch\SeleniumFirst\obj\x86\Debug\SeleniumFirst.exe
+C:\Users\Basavaraj\Documents\Visual Studio 2010\Projects\BingSearch\SeleniumFirst\obj\x86\Debug\SeleniumFirst.pdb
